@@ -7,7 +7,7 @@ plugins {
 jar {
     manifest {
         attributes(
-                'Main-Class': 'main.mainApp'
+                'Main-Class': 'com.team4.dekbookingappbe.main.mainApp'
         )
     }
 }
