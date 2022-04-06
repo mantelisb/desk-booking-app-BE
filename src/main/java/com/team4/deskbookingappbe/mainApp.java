@@ -1,4 +1,4 @@
-package com.team4.deskbookingappbe.main;
+package com.team4.deskbookingappbe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
