@@ -4,13 +4,13 @@ plugins {
     id 'java'
 }
 
-//jar {
-//    manifest {
-//        attributes(
-//                'Main-Class': 'com.team4.deskbookingappbe.MainApp'
-//        )
-//    }
-//}
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'com.team4.deskbookingappbe.MainApp'
+        )
+    }
+}
 
 group = 'com.team4'
 version = '0.0.1-SNAPSHOT'
