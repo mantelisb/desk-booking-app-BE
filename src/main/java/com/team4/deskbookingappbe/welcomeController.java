@@ -8,7 +8,7 @@ public class welcomeController {
 
     @GetMapping("/")
     public String Welcome(){
-        return "BE WORKS! HELLO HEROKU.";
+        return "plz work";
     }
 
 }
