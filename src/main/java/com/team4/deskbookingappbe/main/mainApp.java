@@ -1,13 +1,13 @@
-package com.team4.deskbookingappbe;
+package com.team4.deskbookingappbe.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DeskBookingAppBeApplication {
+public class mainApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(DeskBookingAppBeApplication.class, args);
+        SpringApplication.run(mainApp.class, args);
     }
 
 }
